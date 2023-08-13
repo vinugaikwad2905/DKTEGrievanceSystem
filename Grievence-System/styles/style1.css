@@ -1,0 +1,91 @@
+.header {
+  background-color: rgb(54, 22, 22);
+}
+
+.headerlink {
+  color: aliceblue;
+}
+
+.headerlink:hover {
+  background-color: gray;
+  color: white;
+  border-radius: 10px;
+}
+
+.footer {
+  background-color: rgb(54, 22, 22);
+  color: white;
+}
+
+.Link {
+  text-decoration: none;
+  color: white;
+}
+
+.Link:hover {
+  text-decoration: none;
+  color: white;
+  font-size: 19px;
+}
+
+.fa-instagram {
+  color: rgb(244, 8, 149);
+}
+
+.fa-instagram:hover {
+  font-size: 19px;
+  color: rgb(244, 8, 149);
+}
+
+.fa-facebook {
+  color: blue;
+}
+
+.fa-facebook:hover {
+  font-size: 19px;
+  color: blue;
+}
+
+.fa-twitter {
+  color: skyblue;
+}
+
+.fa-twitter:hover {
+  font-size: 19px;
+  color: skyblue;
+}
+
+.fa-linkedin {
+  color: blue;
+}
+
+.fa-linkedin:hover {
+  font-size: 19px;
+  color: blue;
+}
+
+html,
+body {
+  user-select: none;
+}
+
+.main {
+  font-size: 120px;
+}
+
+.logout {
+  background-color: red;
+  border-radius: 2px;
+  color: aliceblue;
+}
+
+/* teacher login head */
+.logout:hover {
+  background-color: red;
+  border-radius: 2px;
+  color: aliceblue;
+}
+
+/* teacher login main page */
+
+/* studentmainpage */
